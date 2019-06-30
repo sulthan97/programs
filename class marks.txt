@@ -1,0 +1,17 @@
+class student 
+{ 
+ int m1,m2,m3,m4,m5;
+ void setvale(int mark1,intmark2,int mark3,intmark4,intmark5)
+  {  m1=mark1;
+     m2=mark2;
+     m3=mark3;
+     m4=mark4;
+     m5=mark5;
+}
+ class school
+   {
+     public static void main (String args[])
+   {
+     stdent gopi=new student();
+      gopi.setvalue(80,60,70,80,90)
+  }
